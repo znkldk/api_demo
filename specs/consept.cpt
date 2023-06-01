@@ -1,0 +1,18 @@
+Created by Barış on 31.05.2023
+
+This is a concept file with following syntax for each concept.
+# Add New Tab
+* Click button "Add new tab"
+* increase tab count
+
+# Remove Tab
+* Click button "Remove last tab"
+* decraise tab count
+
+# Remove All Tabs
+* Click button "Remove all tabs"
+* Make Tab Count 0
+
+# Make Toggle Tab Active
+* Click button "Toggle tab mode"
+* Does Toggle tab NOT passive mode
